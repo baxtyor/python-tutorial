@@ -38,14 +38,33 @@
 # print(list(filter(odd, arr)))
 
 
-arr1 = [1,2,3,6,4]
-arr2 = [7,1,5,9,3]
-# arr3 = [j for i in arr1 for j in arr2 if i == j]
-# print(arr3)
-arr3 = []
-for i in arr1:
-   for k in arr2:
-      if i != k:
-         arr3.append()
-print(arr3)
+# arr1 = [1,2,3,6,4]
+# arr2 = [7,1,5,9,3]
+# [arr2.append(i) for i in arr1]
+# arr3 = arr2[0]
+# for i in arr2:
+#    if i == arr3:
+
+# from functools import reduce
+
+# arr = [1,2,3,4,5]
+# arr = list(range(6))
+
+# def func()
+
+
+
+# a1 = [1,2,3]
+# b1 = [4,5,6]
+# a1.extend(b1)
+# print(a1)
+
+# import random
+# arr = [random.randint(1,30) for i in range(10)]
+
+# arr1 = list(range(10,100,10))
+# print(arr1)
+# arr2 = random.sample(range(36), 5)
+# print(arr2)
+
 
