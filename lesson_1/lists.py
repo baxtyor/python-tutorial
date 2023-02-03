@@ -67,4 +67,5 @@
 # arr2 = random.sample(range(36), 5)
 # print(arr2)
 
+# print('salom')
 

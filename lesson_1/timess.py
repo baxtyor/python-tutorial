@@ -1,8 +1,8 @@
-import locale
-locale.setlocale(locale.LC_ALL, "Uz_uz")
-import time
-import datetime
-import calendar
+# import locale
+# locale.setlocale(locale.LC_ALL, "Uz_uz")
+# import time
+# import datetime
+# import calendar
 
 
 # st_time = datetime.time(hour=1, minute=30, second=30)
